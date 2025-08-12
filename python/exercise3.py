@@ -1,3 +1,4 @@
+#declare 2 numbers and print the multiplication
 a = 2
 b = 3
 c = 4
