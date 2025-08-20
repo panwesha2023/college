@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>forms</title>
+</head>
+<body>
+<form>
+    first name:<br>
+    <input type="text" name="first name">
+    <br>
+    last name:<br>
+    <input type="text" name="last name">
+    <br>
+    <input type="submit" value="submit">
+</form>
+</body>
+</html>
