@@ -1,0 +1,9 @@
+sub1 = int(input("Enter the marks of math: "))
+sub2 = int(input("Enter the marks of physics: "))
+sub3 = int(input("Enter the marks of chemistry: "))
+sub4 = int(input("Enter the marks of biology: "))
+sub5 = int(input("Enter the marks of english: "))
+sub6 = int(input("Enter the marks of hindi: "))
+total = sub1+sub2+sub3+sub4+sub5+sub6
+percentage = (total/600)*100
+print("Percentage = ",percentage,"%")
