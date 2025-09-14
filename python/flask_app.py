@@ -45,8 +45,7 @@ def calculate_age(birthdate):
 
 @app.route("/", methods=["GET"])
 def home():
-    return 
-    render_template("login.html")
+    return render_template("login.html")
 
 
 @app.route("/login", methods=['POST', 'GET'])
